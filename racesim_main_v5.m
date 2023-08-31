@@ -300,6 +300,6 @@ savefig(fig,figname+ '_figs');
 saveas(fig(1),figname+'_fig1','jpeg')
 saveas(fig(2),figname+'_fig2','jpeg')
 
-save(logname)
+% save(logname)
 
 toc
