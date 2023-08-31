@@ -8,6 +8,5 @@
 > Input folders:
 	- Data: Contains raw laptime data from multiple races.
 > Output folders:
-	- Dataout: Entire workspace (all variables) will be exported to this folder.
 	- Figures: Figures will be exported to this folder.
 > Learning process will take roughly 1-2 minutes to complete with 80,000 episodes.
