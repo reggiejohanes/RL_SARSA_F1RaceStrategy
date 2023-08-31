@@ -1,6 +1,7 @@
 > Course          : AE4350 Bio-Inspired Intelligence and Learning for Aerospace Applications
 > Student Name    : Reggie Johanes
 > Student Number  : 5477506
+> Email           : reggiejohanes@student.tudelft.nl
 > Submission Date : 31 August 2023
 
 > Main file: racesim_main_v5
