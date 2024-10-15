@@ -1,3 +1,5 @@
+This program utilizes reinforcement learning (SARSA algorithm) to calculate optimal F1 race strategies.
+
 > Course          : AE4350 Bio-Inspired Intelligence and Learning for Aerospace Applications
 > Student Name    : Reggie Johanes
 > Student Number  : 5477506
